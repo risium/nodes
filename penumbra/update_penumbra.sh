@@ -72,7 +72,7 @@ function rust_update {
 
 
 colors
-export version="031-autonoe"
+export version="035-taygete"
 line
 logo
 line
